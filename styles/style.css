@@ -1,5 +1,6 @@
 html {
   font-size: 10px;
+/*  search 'kanye background' if url is broken*/
   background: url(http://hustletv.tv/wp-content/uploads/2016/02/Banner.jpg) bottom center;
   background-size: cover;
 }
@@ -12,6 +13,12 @@ body,html {
 
 body {
     background-color: rgba(142,142,142,.2);
+}
+
+kbd {
+  display: block;
+  font-size: 4rem;
+  font-family: 'Helvetica';
 }
 
 .keys {
@@ -42,14 +49,8 @@ body {
   box-shadow: 0 0 1rem rgb(94, 95, 94);
 }
 
-kbd {
-  display: block;
-  font-size: 4rem;
-}
-
 .sound {
-  font-size: 1.2rem;
-  text-transform: uppercase;
+  font-size: 1.5rem;
   letter-spacing: .1rem;
   color: rgb(252, 252, 244);
 }
