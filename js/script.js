@@ -1,11 +1,11 @@
-function removeTransition(e) {
+var removeTransition = function(e) {
   if (e.propertyName !== 'transform') {
     return
   };
   e.target.classList.remove('playing');
 }
 
-function playSound(e) {
+var playSound = function(e) {
   var audio = document.querySelector('audio[data-key="' + e.keyCode + '"]');
   var key = document.querySelector('div[data-key="' + e.keyCode + '"]');
   
