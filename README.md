@@ -12,6 +12,10 @@
 
 <h2>Description</h2>
 Kanye West soundboard created with keydown event listeners and terrible Kanye quotes. 
+<br>
+<h3>Screenshots</h3>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/150728942@N02/33884123474/in/dateposted-public/" title="Screen Shot 2017-05-17 at 9.05.43 PM"><img src="https://c1.staticflickr.com/5/4185/33884123474_9ed0c0a78d_m.jpg" width="240" height="132" alt="Screen Shot 2017-05-17 at 9.05.43 PM"></a>
 
 <h2>Frameworks && Libraries</h2>
 <ul>
