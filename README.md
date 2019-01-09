@@ -25,8 +25,8 @@ Kanye West soundboard created with keydown event listeners and terrible Kanye qu
 <h2>Install && Development</h2>
 
 ```
-$ git clone https://github.com/AnthonyBuncio/yeezySoundKit.git
-$ cd yeezySoundKit
+$ git clone https://github.com/AnthonyBuncio/yeezy-soundkit.git
+$ cd yeezy-soundkit
 $ node server.js
 ```
 
